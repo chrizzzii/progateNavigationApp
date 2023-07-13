@@ -1,5 +1,5 @@
 # progateNavigationApp
-> Progate Weather App
+> Progate Navigation App
 
 ## Description
 To complete the Progate Course in React Native Path
